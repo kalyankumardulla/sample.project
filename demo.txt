@@ -5,3 +5,4 @@ class
         system.out.println("hello world");
      }
 }
+output :1
